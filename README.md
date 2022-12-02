@@ -14,7 +14,9 @@ This idea was originally created by the [KoGaMa Buddy](https://programastudios.d
 
 # Getting Started
 To set a custom profile background, include the following format somewhere in your profile description:<br>
-`Background:` _GAME_ID_, `filter:` _FILTER_;
+<code>
+      <b>Background:</b> <i>GAME_ID</i>, <b>filter:</b> <i>FILTER;</i>
+</code>
 
 + **GAME_ID**: is the ID of a game on the current server.
 + **FILTER**: can be light, dark, blur, or none.
