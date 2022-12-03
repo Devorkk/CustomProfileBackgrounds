@@ -8,7 +8,7 @@ const InsertBeforeLoad = async () => {
 
 	if (INDEX_OF_BACKGROUND != -1 && INDEX_OF_FILTER != -1) {
 
-		const TEXT 	  = TEXT_DESCRIPTION.slice(INDEX_OF_BACKGROUND, INDEX_OF_FILTER + 13).split(' ')
+		const TEXT    = TEXT_DESCRIPTION.slice(INDEX_OF_BACKGROUND, INDEX_OF_FILTER + 13).split(' ')
 		const GAME_ID = TEXT[1].replace(',', '')
 		const FILTER  = TEXT[3].replace(';', '').toLowerCase()
 		const IMAGE   = (await (await fetch(`/game/published/?q=${GAME_ID}`)).json()).images.large.replace('cache', 'images').replace('_600x240.jpg', '.png')
