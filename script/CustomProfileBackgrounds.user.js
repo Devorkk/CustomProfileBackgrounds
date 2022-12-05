@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Custom Profile Backgrounds
-// @version      1.0
+// @version      0.2
 // @author       Devork
 // @namespace    https://github.com/Devorkk/
 // @match        https://www.kogama.com/profile/*

@@ -1,6 +1,8 @@
 <div align="center">
-      <img src="images/kgm-buddy-logo.png" width="100px">
-     <h1>Custom Profile Backgrounds for KoGaMa</h1>
+      <img src="images/kogama_buddy_icon.png" width="100px">
+      <h1>Custom Profile Backgrounds for KoGaMa</h1>
+
+[![](https://visitcount.itsvg.in/api?id=devorkk-CustomProfileBackgrounds&label=Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 # About
@@ -10,7 +12,7 @@ Custom profile background support. Showcase a game or create some profile art fo
 This idea was originally created by the [KoGaMa Buddy](https://programastudios.dev/projects/kogama-buddy/) team ([ProGraMa Studios](https://programastudios.dev/)), and recreated by me so that other users can enjoy this little snippet in a firefox or non-firefox browser.
 
 # Screenshot
-> <img src="images/image.png" width="100%">
+> <img src="images/screenshot.png" width="100%">
 
 # Getting Started
 To set a custom profile background, include the following format somewhere in your profile description:<br>
@@ -24,5 +26,5 @@ To set a custom profile background, include the following format somewhere in yo
 > Note: The format is case-sensitive, and filter is optional with a default value of light.
 
 # Example
-> <img src="images/example2.png" width="100%">
-> <img src="images/example.png" width="100%">
+<img src="images/example_image.png" width="100%">
+<img src="images/example_description.png" width="100%">
