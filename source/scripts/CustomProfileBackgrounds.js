@@ -28,4 +28,4 @@ const InsertBeforeLoad = async () => {
 	}
 };
 
-document.addEventListener('DOMNodeInserted', InsertBeforeLoad);
+document.addEventListener('DOMContentLoaded', InsertBeforeLoad);

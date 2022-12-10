@@ -1,20 +1,26 @@
 <div align="center">
       <img src="images/kogama_buddy_icon.png" width="100px">
-      <h1>Custom Profile Backgrounds for KoGaMa</h1>
-
-[![](https://visitcount.itsvg.in/api?id=devorkk-CustomProfileBackgrounds&label=Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+      <h1>Custom Profile Backgrounds v0.3</h1>
 </div>
 
 # About
-Custom profile background support. Showcase a game or create some profile art for all to enjoy at [KoGaMa](https://www.kogama.com)!
+Custom profile background support. Showcase a game or create some profile art for all to enjoy at [KoGaMa](https://www.kogama.com).
 
 
-This idea was originally created by the [KoGaMa Buddy](https://programastudios.dev/projects/kogama-buddy/) team ([ProGraMa Studios](https://programastudios.dev/)), and recreated by me so that other users can enjoy this little snippet in a firefox or non-firefox browser.
+This idea was originally created by the [KoGaMa Buddy](https://programastudios.dev/projects/kogama-buddy/) or [ProGraMa Studios](https://programastudios.dev/), and re-created by me so, others users can enjoy this little tool on a non-firefox/firefox browser.
 
-# Screenshot
-> <img src="images/screenshot.png" width="100%">
+# Preview
+> <img src="images/screenshot.png">
 
 # Getting Started
+To download this script you need [Tampermonkey](https://www.tampermonkey.net/), if you don't have, then check **[InstallingTampermonkey](https://github.com/Devorkk/InstallingTampermonkey)** guide.<br>
+Otherwise, click the button below:
+
+<a href="https://github.com/Devorkk/CustomProfileBackgrounds/raw/main/script/CustomProfileBackgrounds.user.js">
+      <button style=" border-radius: 8px; border: none; padding: 15px 30px; background: #58a6ff;  margin: 20px 0; font-weight: bolder; font-size: 20px; text-transform: uppercase; color: white; cursor: pointer;">Download</button>
+</a>
+
+# Usage
 To set a custom profile background, include the following format somewhere in your profile description:<br>
 <code>
       <b>Background:</b> <i>GAME_ID</i>, <b>filter:</b> <i>FILTER;</i>
