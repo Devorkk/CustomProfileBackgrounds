@@ -16,7 +16,7 @@ This idea was originally created by the [KoGaMa Buddy](https://programastudios.d
 To download this script you need [Tampermonkey](https://www.tampermonkey.net/), if you don't have, then check **[InstallingTampermonkey](https://github.com/Devorkk/InstallingTampermonkey)** guide.<br>
 Otherwise, click the button below:
 
-[<img src="images/download.png" width="200"/>](https://github.com/Devorkk/CustomProfileBackgrounds/raw/main/source/user-scripts/CustomProfileBackgrounds.user.js")
+[<img src="images/download.png" width="200"/>](https://github.com/Devorkk/CustomProfileBackgrounds/raw/main/source/user-scripts/CustomProfileBackgrounds.user.js)
 
 # Usage
 To set a custom profile background, include the following format somewhere in your profile description:<br>
