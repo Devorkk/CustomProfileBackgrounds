@@ -13,7 +13,7 @@ This idea was originally created by the [KoGaMa Buddy](https://programastudios.d
 > <img src="images/screenshot.png">
 
 # Getting Started
-To download this script you need [Tampermonkey](https://www.tampermonkey.net/), if you don't have, then check **[InstallingTampermonkey](https://github.com/Devorkk/InstallingTampermonkey)** guide.<br>
+To download this script you need a user-script manager, if you don't have, then check [InstallUserScriptsManager](https://github.com/Devorkk/InstallUserScriptsManager) guide.<br>
 Otherwise, click the button below:
 
 [<img src="images/download.png" width="200"/>](https://github.com/Devorkk/CustomProfileBackgrounds/raw/main/source/user-scripts/CustomProfileBackgrounds.user.js)
