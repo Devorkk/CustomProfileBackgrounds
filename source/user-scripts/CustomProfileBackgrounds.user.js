@@ -7,6 +7,7 @@
 // @match        https://www.kogama.com/profile/*
 // @match        https://kogama.com.br/profile/*
 // @match        https://friends.kogama.com/profile/*
+// @require      https://github.com/Devorkk/CustomProfileBackgrounds/raw/main/source/scripts/CustomProfileBackgrounds.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
